@@ -1,9 +1,8 @@
-# introduction-programming-cst
 # Java Learning Journey
 
 Hi, I'm Mohammad Nawaf Nissar.
 
-I started learning Java recently as a beginner in computer science and software development.The main objective is to become familiar with programming and get on to python as soon a s possible 
+I started learning Java recently as a beginner in computer science and software development.My goal is to build strong programming fundamentals in Java before expanding into Python and AI/ML.
 
 This repository contains programs I built while practicing:
 - loops
@@ -12,8 +11,6 @@ This repository contains programs I built while practicing:
 - strings
 - user input
 - logic building
-
----
 
 ## Project: Addition Checker
 
@@ -33,5 +30,25 @@ While building this program, I learned:
 - how loops work
 - how to repeat input until a condition becomes true
 - how Java handles user interaction
+  
+## How to Run
 
+1. Open the project in Eclipse or any Java IDE
+2. Compile the Java file
+3. Run the program
+4. Enter two numbers and calculate their sum
+   
+Language:
+- Java
+
+## Example Output
+
+```text
+enter number1: 5
+enter number2: 7
+Enter their sum: 10
+You are wrong! Try again.
+Enter their sum: 12
+You were correct!
+```
 This project was built through practice and experimentation as part of my learning journey.
